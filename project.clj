@@ -1,4 +1,4 @@
-(defproject tester "1.0.0"
+(defproject piglatinizer "1.0.0"
   :description "Small library that allows you to pig latinize strings"
   :url "https://www.github.com/brianmichel/piglatinizer"
   :license {:name "MIT License"
