@@ -1,14 +1,12 @@
 # piglatinizer
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to translate to and from pig latin.
 
 ## Usage
 
-FIXME
+    (pig-latinize "sentence goes heres")
+    (de-pig-latinize "pig latinized sentence goes here")
 
 ## License
 
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+See LICENSE file

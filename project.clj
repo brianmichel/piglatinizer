@@ -1,6 +1,6 @@
 (defproject tester "0.1.0-SNAPSHOT"
   :description "Small library that allows you to pig latinize strings"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :url "https://www.github.com/brianmichel/piglatinizer"
+  :license {:name "MIT License"
+            :url "https://github.com/brianmichel/piglatinizer/blob/master/LICENSE"}
   :dependencies [[org.clojure/clojure "1.5.1"]])
